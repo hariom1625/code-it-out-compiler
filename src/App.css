@@ -1,0 +1,61 @@
+.home-heading-1{
+text-align: left;
+margin-top: 20px;
+margin-left: 20px;
+
+color:#e3f6f5;
+}
+.home-heading-2{
+      right:0;
+
+margin-right: 20px;
+top:20px;
+position: absolute;
+color:#e3f6f5;
+}
+.home-heading-3{
+
+text-align: center;
+
+top:20px;
+
+
+color:#e3f6f5;
+}
+.home-heading-4{
+
+text-align: center;
+
+margin-top:30vh;
+
+
+color:#e3f6f5;
+}
+.quote-name{
+margin-left: 600px;
+color:#e3f6f5;
+}
+.code-home{
+margin-right: 10px;
+}
+
+canvas{
+background-color: #222831;
+}
+
+@media(min-width:1500px){
+
+.home{
+margin-left: 100px;
+margin-right: 100px;
+
+}
+}
+@media(min-width:1700px){
+
+.home{
+margin-left: 200px;
+margin-right: 200px;
+
+}
+}
